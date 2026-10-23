@@ -1,3 +1,5 @@
+[![Попробовать онлайн](https://img.shields.io/badge/Попробовать_онлайн-SRE_Roadmap-2ea44f?style=for-the-badge)](https://ruslanmusaev.github.io/sre-roadmap/)
+
 # SRE Roadmap на 3 месяца
 
 Практический маршрут развития для работающего SRE/DevOps: **12 недель, 60 заданий и занятия по 30–60 минут в день**.
